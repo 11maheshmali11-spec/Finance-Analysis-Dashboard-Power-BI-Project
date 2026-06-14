@@ -103,6 +103,7 @@ The dashboard enables management to monitor financial performance from a single 
 ---
 
 # 📷 Dashboard Preview
+<img width="1357" height="733" alt="Screenshot 2026-06-14 195614" src="https://github.com/user-attachments/assets/62bd3e18-f157-426c-867a-2b5c4c58f74a" />
 
 
 

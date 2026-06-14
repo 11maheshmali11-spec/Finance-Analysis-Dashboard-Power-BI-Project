@@ -104,9 +104,9 @@ The dashboard enables management to monitor financial performance from a single 
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
 
-```
+
+
 
 # 🎯 Key KPIs
 

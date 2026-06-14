@@ -105,8 +105,9 @@ The dashboard enables management to monitor financial performance from a single 
 # 📷 Dashboard Preview
 <img width="1357" height="733" alt="Screenshot 2026-06-14 195614" src="https://github.com/user-attachments/assets/62bd3e18-f157-426c-867a-2b5c4c58f74a" />
 
+<img width="1358" height="736" alt="Screenshot 2026-06-14 203204" src="https://github.com/user-attachments/assets/95007778-81bc-41ba-a8b4-d41c9e484977" />
 
-
+<img width="1636" height="721" alt="Screenshot 2026-06-14 203451" src="https://github.com/user-attachments/assets/9b9bbcfa-f858-4091-96c0-c0875bbf3b0a" />
 
 
 # 🎯 Key KPIs

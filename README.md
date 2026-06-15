@@ -79,6 +79,7 @@ The solution transforms raw financial data into meaningful business insights thr
 - Business Intelligence
 - KPI Development
 - Interactive Dashboard Design
+- Created Dynamic Matrics
 - Drill Through
 - Slicers & Filters
 - Data Visualization
